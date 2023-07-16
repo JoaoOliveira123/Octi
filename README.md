@@ -1,2 +1,2 @@
 # Octi
-Um jogo de octi no terminal, que pode ser jogado or humanos e máquinas
+Esse projeto foi transferido para o GitLab: https://gitlab.com/jmfqoliveira3/Octi
